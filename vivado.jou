@@ -1,0 +1,20 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Apr 23 18:44:26 2024
+# Process ID: 26416
+# Current directory: C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/TP2/memory
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23168 C:\Users\glenn\OneDrive\Bureau\Dossier Glen\2A\Semestre 2\VHDL\TP2\memory\memory.xpr
+# Log file: C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/TP2/memory/vivado.log
+# Journal file: C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/TP2/memory\vivado.jou
+# Running On: Lenovo, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 17059 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/glenn/OneDrive/Bureau/Dossier Glen/2A/Semestre 2/VHDL/TP2/memory/memory.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+source Memory_TB.tcl
+close_sim
